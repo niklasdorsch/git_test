@@ -2,6 +2,7 @@
 A repo to practice git commands
 This is a change
 
+kokokokok
 yahhhhh
 
 555A5
@@ -16,7 +17,7 @@ this is a good change
 
 this one sucks,
 
-
+okokokokokokok
 ]]]]]]
 
 
